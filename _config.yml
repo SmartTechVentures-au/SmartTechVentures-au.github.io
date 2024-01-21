@@ -107,7 +107,7 @@ author:
   name             : "STV"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DER software solution specialists"
-  location         : "https://github.com/SmartTechVentures-au"
+  location         : "http://smarttechventures.au/"
   email            :
   links:
     - label: "Email"
@@ -284,7 +284,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: "project"
+      layout: splash
       author_profile: # true
       read_time: # true
       comments: # true
