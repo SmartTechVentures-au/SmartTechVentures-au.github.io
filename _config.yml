@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Smart Tech Ventures"
 description              : "Leaders in Smart Grid Technology"
-url                      : "https://smarttechventures-au.github.io/"
+url                      : "http://smarttechventures.au/"
 baseurl                  : "" 
 repository               : "SmartTechVentures-au/SmartTechVentures-au.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris McKelt"
+  name             : "STV"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Architect & Engineer"
-  location         : "mckelt.com"
+  bio              : "DER software solution specialists"
+  location         : "https://github.com/SmartTechVentures-au"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hi@smarttechventures.au"
+      url: "mailto://hi@smarttechventures.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "smarttechventures.au"
