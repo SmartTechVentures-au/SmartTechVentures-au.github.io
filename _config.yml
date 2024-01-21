@@ -284,9 +284,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
-      author_profile: true
-      read_time: true
+      layout: default
+      author_profile: # true
+      read_time: # true
       comments: # true
       share: true
       related: true
