@@ -1,7 +1,7 @@
 ---
-permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /
+title: "Smart Tech Ventures"
+excerpt: "Energy resource management cloud and software engineering"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2023-01-01T11:59:26-04:00
 toc: true
 ---
 
