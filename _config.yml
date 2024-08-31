@@ -100,7 +100,7 @@ JB:
   comments:
     provider: disqus
     disqus:
-      short_name: axurcio
+      short_name: smartech
       #livefyre :
       #  site_id :
       #intensedebate :
