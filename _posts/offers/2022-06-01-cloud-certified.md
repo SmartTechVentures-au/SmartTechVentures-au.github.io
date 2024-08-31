@@ -14,7 +14,7 @@ title2 : Multi-cloud certified
 title3 : 
 bgcolor: ff5a71
 keywords: certified, mulit-cloud, aws,azure,gcp 
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 

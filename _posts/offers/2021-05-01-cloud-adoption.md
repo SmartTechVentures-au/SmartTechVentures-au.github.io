@@ -14,7 +14,7 @@ title2 : Plan your digital strategy
 title3 : Roadmap your future
 bgcolor: ff5a71
 keywords: digital strategy, assessment, adoption
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 
@@ -25,7 +25,7 @@ canonical: https://axurcio.com
 If you are starting with your cloud journey, there are many things you need to think of to set up your cloud environment and your Azure cloud architecture . Things like networking, subscription management, security, governance, and many more, can be fairly complex. That is where the Cloud Adoption Framework for Azure can deliver proven guidance to help you with your Azure cloud journey.  
 <br />
 
-Axurcio will help in adopting the most optimized Cloud Adoption Plan for smooth transition. We will help migrating to the cloud following the process of Assess, Migrate, Optimize, and Secure & Manage. We take advantage of cloud-native technologies and modernize solutions. Get in touch with our experts to know more.  
+Smart Techwill help in adopting the most optimized Cloud Adoption Plan for smooth transition. We will help migrating to the cloud following the process of Assess, Migrate, Optimize, and Secure & Manage. We take advantage of cloud-native technologies and modernize solutions. Get in touch with our experts to know more.  
 <br />
 
 ![image](https://user-images.githubusercontent.com/662868/124373903-0972fc80-dcc9-11eb-80ad-0c6c32d8fc44.png) 

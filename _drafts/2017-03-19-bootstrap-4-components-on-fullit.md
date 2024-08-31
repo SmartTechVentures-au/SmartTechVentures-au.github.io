@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: fullit, javascript, css, html, bootstrap, framework
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 

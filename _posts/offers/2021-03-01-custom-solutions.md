@@ -14,7 +14,7 @@ title2 : Creating cloud native applicatoins
 title3 : Connecting systems and data through integration
 bgcolor: ff5a71
 keywords: cloud native, integration, applications, data-science
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 
@@ -72,7 +72,7 @@ Azure IoT Edge is a fully managed service built on Azure IoT Hub. Deploy your cl
 
 <br />     
 
-Axurcio has a wealth of knowledge when it comes to realising an idea as a successful commercial venture.  
+Smart Techhas a wealth of knowledge when it comes to realising an idea as a successful commercial venture.  
 Our experience comes from both working on our own products and the products of our partners and customers.  
 
 <br />     

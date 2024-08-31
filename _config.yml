@@ -7,7 +7,7 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://blog.axurcio.com
+url: https://blog.smarttechventures.au/
 baseurl: "/"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -20,23 +20,23 @@ google_ad_client: UA-9649471-5
 
 post_limit: 5
 
-title: Axurcio
+title: Smart Tech
 tagline: Cloud Specialists
 author:
-  name: Axurcio
-  site: https://blog.axurcio.com
+  name: Smart Tech
+  site: https://blog.smarttechventures.au/
   description: Partners in delivery
   image: social-image.png
-  email: hi@axurcio.com
-  github: axurcio
-  twitter: axurcio
+  email: hi@smarttechventures.au
+  github: SmartTechVentures-au
+  twitter: SmartTechAu
   facebook: axurcio
   linkedin: axurcio
   instagram: axurcio
   pinterest: axurcio
   feedburner:
 
-twitter_username: axurcio
+twitter_username: SmartTechAu
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -45,7 +45,7 @@ twitter_username: axurcio
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url: https://blog.axurcio.com
+production_url: https://blog.smarttechventures.au/
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB:
@@ -82,7 +82,7 @@ JB:
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH: https://blog.axurcio.com/assets/themes/bootstrap
+  ASSET_PATH: https://blog.smarttechventures.au/assets/themes/bootstrap
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.

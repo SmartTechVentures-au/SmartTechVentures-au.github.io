@@ -14,7 +14,7 @@ title2 : Data Estate Assessment
 title3 : Data Governance and Citizenship
 bgcolor: ff5a71
 keywords: data, assessment, adoption
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 

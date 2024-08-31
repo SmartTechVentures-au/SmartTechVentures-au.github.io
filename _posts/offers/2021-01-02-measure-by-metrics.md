@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: devops, metrics, assessments
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 

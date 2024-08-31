@@ -14,7 +14,7 @@ title2 : Our Expertise
 title3 : 
 bgcolor: ff5a71
 keywords: expertise, practices
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 
@@ -22,7 +22,7 @@ canonical: https://axurcio.com
 
 <!--more-->
 
-With an extensive track record of working with small to enterprise organisations across diverse industry sectors, Axurcio specialises in driving large-scale programs of work in cutting-edge technological areas such as cloud infrastructure, architecture, digital applications, data, and AI.​
+With an extensive track record of working with small to enterprise organisations across diverse industry sectors, Smart Techspecialises in driving large-scale programs of work in cutting-edge technological areas such as cloud infrastructure, architecture, digital applications, data, and AI.​
 
 <br />    
 
@@ -34,7 +34,7 @@ Whether you require expert guidance in implementing advanced cloud solutions, de
 
 <br />    
 
-Experience the power of Axurcio as we work alongside you to transform your business, unlock new opportunities, and stay ahead in the dynamic and rapidly evolving technological landscape.​
+Experience the power of Smart Techas we work alongside you to transform your business, unlock new opportunities, and stay ahead in the dynamic and rapidly evolving technological landscape.​
 
 # Our Technological Competencies
 <br />    

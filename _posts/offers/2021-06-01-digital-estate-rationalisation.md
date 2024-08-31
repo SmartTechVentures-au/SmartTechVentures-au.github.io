@@ -14,7 +14,7 @@ title2 : Plan your digital strategy
 title3 : Roadmap your future
 bgcolor: ff5a71
 keywords: digital strategy, assessment, planning
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 

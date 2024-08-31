@@ -14,7 +14,7 @@ title2 : Plan your digital strategy
 title3 : Roadmap your product strategy
 bgcolor: ff5a71
 keywords: digital strategy, product ownership 
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 

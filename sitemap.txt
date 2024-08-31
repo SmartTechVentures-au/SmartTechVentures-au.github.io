@@ -3,9 +3,9 @@
 title : Sitemap
 ---
 
-https://blog.axurcio.com
-https://blog.axurcio.com/contact
+https://smarttechventures.au
+https://smarttechventures.au/contact
 https://blog/axurcio.com/learn
 {% for post in site.posts %}
-https://blog.axurcio.com{{ post.url }} 
+https://smarttechventures.au{{ post.url }} 
 {% endfor %}

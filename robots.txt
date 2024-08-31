@@ -6,4 +6,4 @@ Disallow: /_config.yml
 Disallow: /_layouts/
 Disallow: /_plugins/
 
-Sitemap: https://axurcio.com/sitemap.txt
+Sitemap: https://blog.smarttechventures.au/sitemap.txt

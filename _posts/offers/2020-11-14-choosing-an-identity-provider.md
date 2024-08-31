@@ -14,7 +14,7 @@ title2 : Solution Evaluation
 title3 : Customer Identity and Access Managment
 bgcolor: ff5a71
 keywords: product-selection, identity, ciam
-canonical: https://axurcio.com
+canonical: https://blog.smarttechventures.au
 ---
 {% include JB/setup %}
 
@@ -33,7 +33,7 @@ To enable growth and ease custom development outside SalesForce, the client deci
 
 Customer Identity and Access Management (CIAM) is a subset of the larger identity and access management (IAM) concept that focuses on managing and controlling external parties' access to a business's applications, web portals, and digital services. CIAM solutions help organizations manage customer identities, providing security and an enhanced experience. 
 
-Axurcio was engaged to provide options for a CIAM implementation and provide a recommended solution, costs and implementation estimates.
+Smart Techwas engaged to provide options for a CIAM implementation and provide a recommended solution, costs and implementation estimates.
 
 ![image](https://github.com/Axurcio/axurcio.github.io/assets/662868/f13ec856-f65c-4f0f-a893-f4dac8029245)
 
