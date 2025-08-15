@@ -18,7 +18,7 @@
       "onAutoForward": "notify"
     }
   },
-  "postCreateCommand": "hugo version && if [ -f package.json ]; then npm ci || npm install; fi",
+  "postCreateCommand": "bash -i .devcontainer/setup.sh",
   "customizations": {
     "vscode": {
       "extensions": [
