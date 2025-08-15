@@ -1,0 +1,46 @@
+{
+  "name": "Hugo Blog Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "version": "latest",
+      "extended": true
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    },
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "forwardPorts": [1313],
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Server",
+      "onAutoForward": "notify"
+    }
+  },
+  "postCreateCommand": "hugo version && if [ -f package.json ]; then npm ci || npm install; fi",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "budparr.language-hugo-vscode",
+        "yzhang.markdown-all-in-one",
+        "tam9.taml",
+        "tamasfe.even-better-toml",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "esbenp.prettier-vscode"
+      ],
+      "settings": {
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true,
+        "files.associations": {
+          "*.tpl": "html",
+          "*.tmpl": "html"
+        },
+        "markdown.validate.enabled": true
+      }
+    }
+  },
+  "remoteUser": "vscode",
+  "postStartCommand": "echo \"Run 'hugo server -D --bind 0.0.0.0 -p 1313' to preview.\""
+}
