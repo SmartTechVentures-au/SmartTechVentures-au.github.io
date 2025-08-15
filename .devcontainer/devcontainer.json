@@ -28,7 +28,13 @@
         "tamasfe.even-better-toml",
         "eamodio.gitlens",
         "streetsidesoftware.code-spell-checker",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+           // --- Markdown enhancement extensions ---
+        "DavidAnson.vscode-markdownlint",         // Linting and style rules
+        "bierner.markdown-preview-github-styles", // GitHub-like preview style
+        "bierner.markdown-mermaid",               // Mermaid diagrams in markdown
+        "bierner.emojisense",                     // Emoji autocompletion
+        "shd101wyy.markdown-preview-enhanced"     // Advanced previews & exports
       ],
       "settings": {
         "editor.tabSize": 2,

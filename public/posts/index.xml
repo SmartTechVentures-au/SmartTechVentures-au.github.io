@@ -6,14 +6,16 @@
     <description>Recent content in Posts on SmartTech Ventures BLOG</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-db</language>
-    <lastBuildDate>Fri, 15 Aug 2025 12:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 12:57:02 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 15 Aug 2025 12:57:02 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <title>API &amp; Integration Lifecycle Governance</title>
+      <link>http://localhost:1313/posts/20250101-api-goverance/</link>
+      <pubDate>Wed, 01 Jan 2025 12:57:02 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250101-api-goverance/</guid>
+      <description>&lt;p&gt;The Integrations Lifecycle follows a Design Thinking Lean Startup Agile approach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design Thinking&lt;/strong&gt;
+Design Thinking is an iterative process in which we seek to understand the user, challenge assumptions, and redefine problems in an attempt to identify alternative strategies and solutions that might not be instantly apparent with our initial level of understanding. At the same time, Design Thinking provides a solution-based approach to solving problems. It is a way of thinking and working as well as a collection of hands-on methods.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
