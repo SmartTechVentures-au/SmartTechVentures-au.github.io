@@ -1,7 +1,6 @@
 baseURL: https://blog.smarttechventures.au
-languageCode: en-db
+languageCode: en-au
 title: SmartTech Ventures BLOG
-theme: PaperMod
 caches:
   images:
     dir: :cacheDir/images

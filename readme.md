@@ -2,4 +2,4 @@
 sudo apt install hugo
 hugo new site SmartTech -->
 
-huge server -D
+hugo server -D
