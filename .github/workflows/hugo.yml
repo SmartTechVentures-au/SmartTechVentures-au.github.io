@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - main
-
+permissions:
+  contents: write # needed to push
+  pages: write # if using actions/deploy-pages
+  id-token: write # if using actions/deploy-pages
 jobs:
   deploy:
     runs-on: ubuntu-latest
